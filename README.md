@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Ayesha Perera
 
-<!--
-**AyeshaPerera2003/AyeshaPerera2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Full Stack MERN Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern, responsive, and scalable web applications using the MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript 
+- React.js
+- Vite
+- Tailwind CSS
+- React Router
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- npm
+
+---
+
+## 🌱 Currently Learning
+
+- MERN Stack
+- REST APIs
+- Authentication
+- JWT
+- MongoDB Atlas
+
+---
+
+## 📌 Featured Projects
+
+🏥 Hospital Management System
+
+📦 Inventory Management System
+
+🎓 Student Management System
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: 
+- Email: ayesharuchishani20030@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
