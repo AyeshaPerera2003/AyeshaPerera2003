@@ -61,3 +61,7 @@ I'm passionate about building modern, responsive, and scalable web applications 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaPerera2003&show_icons=true&theme=tokyonight)
