@@ -1,12 +1,12 @@
-# Hi 👋, I'm Ayesha Perera
+# Hi , I'm Ayesha Perera
 
-## 🚀 Aspiring Full Stack MERN Developer
+## 🚀 Aspiring Full Stack Developer
 
-I'm passionate about building modern, responsive, and scalable web applications using the MERN Stack.
+I'm passionate about building modern, responsive, and scalable web applications 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 - HTML5
@@ -20,45 +20,41 @@ I'm passionate about building modern, responsive, and scalable web applications 
 ### Backend
 - Node.js
 - Express.js
+- Springboot
 
 ### Database
 - MongoDB
+- SQL
 
 ### Tools
 - Git
 - GitHub
 - VS Code
 - Postman
-- npm
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - MERN Stack
 - REST APIs
 - Authentication
-- JWT
-- MongoDB Atlas
+- MongoDB 
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-🏥 Hospital Management System
-
-📦 Inventory Management System
-
-🎓 Student Management System
+Hospital Management System
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/ayeshapereraa/
 - Email: ayesharuchishani20030@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
