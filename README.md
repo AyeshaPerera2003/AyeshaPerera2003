@@ -1,6 +1,6 @@
 # Hi , I'm Ayesha Perera
 
-## 🚀 Aspiring Full Stack Developer
+## Aspiring Full Stack Developer
 
 I'm passionate about building modern, responsive, and scalable web applications 
 
